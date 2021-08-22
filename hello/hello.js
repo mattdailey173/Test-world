@@ -1,2 +1,4 @@
-console.log("hello, world!")
-//test edit
+function greeting(name) {
+    console.log(`Hello ${name}!`)
+}
+greeting(`world`)
